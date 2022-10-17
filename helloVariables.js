@@ -8,3 +8,4 @@ print(y);
 
 // ternary operator 
 x < y ? print("x est inferieur a y") : print(" faux x n est pas inferieur a y");
+//particularite de javascript
